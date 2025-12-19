@@ -80,32 +80,33 @@ Contact page with enquiry form and academy contact details
 Planned Player Progress page for future dynamic integration
 
 ## Project Structure
+
+<pre>
 TennisAcademySystem/
-
-├── src/ Java source files (Version 1)
-├── TennisAcademyWebsite/ Static Website (Version 2)
-│ ├── index.html
-
-│ ├── about.html
-│ ├── programs.html
-│ ├── coaches.html
-│ ├── fees.html
-│ ├── achievements.html
-│ ├── gallery.html
-│ ├── contact.html
-│ ├── player-progress.html
-│ ├── css/
-│ ├── js/
-│ └── images/
+├── src/                         Java source files (Version 1)
+├── TennisAcademyWebsite/        Static Website (Version 2)
+│   ├── index.html
+│   ├── about.html
+│   ├── programs.html
+│   ├── coaches.html
+│   ├── fees.html
+│   ├── achievements.html
+│   ├── gallery.html
+│   ├── contact.html
+│   ├── player-progress.html
+│   ├── css/
+│   ├── js/
+│   └── images/
 └── README.md
-Roadmap
-Version 3 – React Frontend
+</pre>
 
-Conversion of static pages into reusable React components
+## Roadmap
 
-Client-side routing
+### Version 3 – React Frontend
+- Conversion of static pages into reusable React components
+- Client-side routing
+- Improved code organization and maintainability
 
-Improved code organization and maintainability
 
 Version 4 – Backend and Database
 
