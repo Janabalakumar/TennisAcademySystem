@@ -79,24 +79,24 @@ Contact page with enquiry form and academy contact details
 
 Planned Player Progress page for future dynamic integration
 
-Project Structure
+## Project Structure
 TennisAcademySystem/
 │
-├── src/                         Java source files (Version 1)
+├── src/ Java source files (Version 1)
 │
-├── TennisAcademyWebsite/        Static Website (Version 2)
-│   ├── index.html
-│   ├── about.html
-│   ├── programs.html
-│   ├── coaches.html
-│   ├── fees.html
-│   ├── achievements.html
-│   ├── gallery.html
-│   ├── contact.html
-│   ├── player-progress.html
-│   ├── css/
-│   ├── js/
-│   └── images/
+├── TennisAcademyWebsite/ Static Website (Version 2)
+│ ├── index.html
+│ ├── about.html
+│ ├── programs.html
+│ ├── coaches.html
+│ ├── fees.html
+│ ├── achievements.html
+│ ├── gallery.html
+│ ├── contact.html
+│ ├── player-progress.html
+│ ├── css/
+│ ├── js/
+│ └── images/
 │
 └── README.md
 
