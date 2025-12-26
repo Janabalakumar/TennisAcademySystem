@@ -380,3 +380,12 @@ section ul {
 }
 
 
+.logo img {
+    height: 55px;
+    width: auto;
+}
+
+.hero-logo {
+    width: 180px;
+    margin-bottom: 20px;
+}
