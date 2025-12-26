@@ -142,6 +142,13 @@ Clone the repository:
 
 git clone https://github.com/Janabalakumar/TennisAcademySystem.git
 
+## Live Website (Version 2)
+
+The official static website for **Tennis Jorgons – Built for Match Point** is live:
+
+https://janabalakumar.github.io/TennisAcademySystem/
+
+
 
 Open the project in a Java IDE
 
